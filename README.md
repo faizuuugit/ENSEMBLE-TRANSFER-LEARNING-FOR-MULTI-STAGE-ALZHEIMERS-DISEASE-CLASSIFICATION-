@@ -5,7 +5,7 @@
 
 ## Submitted by:
 
-- **Md. Faizuddin** – 21501A05B4  
+- **Md. Faizuddin** – 21501A05B4 (Team Lead)
 - **K. Pavan Kumar** – 21501A0584  
 - **N. Nitin Chowdary** – 21501A05C6  
 - **K. Nirmal** – 21501A0571  
