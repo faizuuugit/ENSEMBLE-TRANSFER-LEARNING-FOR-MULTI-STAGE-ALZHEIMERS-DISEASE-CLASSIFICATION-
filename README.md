@@ -169,8 +169,6 @@ The methodology of the proposed Alzheimer’s stage classification system follow
 
 
 
-**Fig 5.1**: Methodology of Proposed Method
-
 This architecture ensures that raw MRI scans are properly normalized and augmented before class imbalance is addressed using SMOTE. The refined data is then passed through multiple transfer learning models to extract deep features, which are used in an ensemble classifier for precise stage prediction.
 
 
